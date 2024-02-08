@@ -294,7 +294,8 @@ function drawText() {
       );
     } else {
       context.fillText(
-        "그리고 나는 기다리지 않을 거예요, 모든 시간을 함께 보내는 것을 오빠와 함께 즐길 수 있는 세상!",
+        "그리고 나는 기다리지 않을 거예요, 모든 시간을 함께 보내는 것을" ,
+        "오빠와 함께 즐길 수 있는 세상!",
         canvas.width / 2,
         canvas.height / 2 + 50
       );
